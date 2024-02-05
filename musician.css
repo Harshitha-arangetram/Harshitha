@@ -1,0 +1,12 @@
+*{
+	margin:0;
+	padding:0;
+ }
+body  {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	/*  Width of body of the page set to 800 pixel with black background 
+  *  and centered in the browser window */
+	width: 800px;
+	background-color:black;
+	}
+
